@@ -1,0 +1,28 @@
+{
+  "name": "memory-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevation/memory-fs.git"
+  },
+  "author": "Nevation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nevation/memory-fs/issues"
+  },
+  "homepage": "https://github.com/nevation/memory-fs#readme",
+  "devDependencies": {
+    "@types/node": "^16.10.1",
+    "typescript": "^4.4.3"
+  },
+  "keywords": [
+    "memory",
+    "filesystem",
+    "fs"
+  ]
+}
