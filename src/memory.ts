@@ -1,7 +1,7 @@
 import { DiskIO } from "./disk"
 import { TDataType } from "./type"
 
-export class MFS extends DiskIO {
+export class MemoryDisk extends DiskIO {
     constructor(path?: string, recursive?: boolean) {
         super(path, recursive)
 

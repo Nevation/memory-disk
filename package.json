@@ -1,21 +1,21 @@
 {
-  "name": "memory-fs",
+  "name": "memory-disk",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Manage files in memory and automatically synchronize with disk.",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nevation/memory-fs.git"
+    "url": "git+https://github.com/nevation/memory-disk.git"
   },
   "author": "Nevation",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nevation/memory-fs/issues"
+    "url": "https://github.com/nevation/memory-disk/issues"
   },
-  "homepage": "https://github.com/nevation/memory-fs#readme",
+  "homepage": "https://github.com/nevation/memory-disk#readme",
   "devDependencies": {
     "@types/node": "^16.10.1",
     "typescript": "^4.4.3"
